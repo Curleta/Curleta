@@ -4,8 +4,8 @@ I'm Curleta, an intermediate programmer focusing on **web development** and othe
 
 ## Projects (Current)
 
-- [DownloadFindr](https://downloadfindr.pages.dev) (Alpha Testing Stage) - Find the size of download sizes for apps | [Github Repo](https://github.com/Curleta/downloadfindr)
+- I don't have any
 
 ## Archived Projects
 
-- i dunno
+- Downloadfindr (Archived)
