@@ -111,3 +111,13 @@ code {
     margin: 20px 0;
     color: #ff6d6d;
 }
+
+.external-link::after {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    content: "";
+    background-image: url("/assets/external_link.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
