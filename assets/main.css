@@ -179,6 +179,7 @@ main::-webkit-scrollbar {
 .osu-blog {
     padding: 20px;
     border: #000 1px solid;
+    margin: 10px 0;
 }
 
 .osu-blog-title {
