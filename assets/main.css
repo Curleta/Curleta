@@ -123,6 +123,18 @@ code {
     background-repeat: no-repeat;
 }
 
+/* Dead link icon */
+
+.dead-link::after {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    content: "";
+    background-image: url("/assets/img/dead_link.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 /* HTML element styles */
 
 .code-html {
