@@ -18,7 +18,10 @@ Check out my website [here](https://curl-eta.pages.dev/) or at [https://curl-eta
 
 ## Projects (Current)
 
-- I don't have any
+- [Legit YonKaGor Leaks](https://yonkagor.pages.dev)
+Note: I am not affiliated with YonKaGor and the website is a parody site.
+
+I also provide real news based on trustable sources.
 
 ## Archived Projects
 
