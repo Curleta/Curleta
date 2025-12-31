@@ -17,11 +17,8 @@ I'm Curleta, an intermediate programmer focusing on **web development** and othe
 Check out my website [here](https://curl-eta.pages.dev/) or at [https://curl-eta.pages.dev/](https://curl-eta.pages.dev/).
 
 ## Projects (Current)
+- Nothing :/
 
-- [Legit YonKaGor Leaks](https://yonkagor.pages.dev)
-Note: I am not affiliated with YonKaGor and the website is a parody site.
-
-I also provide real news based on trustable sources.
 
 ## Archived Projects
 
