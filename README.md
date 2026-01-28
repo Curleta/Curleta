@@ -17,8 +17,7 @@ I'm Curleta, an intermediate programmer focusing on **web development** and othe
 Check out my website [here](https://curl-eta.pages.dev/) or at [https://curl-eta.pages.dev/](https://curl-eta.pages.dev/).
 
 ## Projects (Current)
-- Nothing :/
-
+- YonkaBase Project - A database for information on YonKaGor and their songs!
 
 ## Archived Projects
 
